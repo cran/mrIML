@@ -1,7 +1,7 @@
 Package: mrIML
 Type: Package
 Title: Multi-Response (Multivariate) Interpretable Machine Learning
-Version: 2.1.0
+Version: 2.2.0
 Authors@R: c(
     person("Nick", "Fountain-Jones", , "nick.fountainjones@utas.edu.au", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0001-9248-8493")),
@@ -31,7 +31,7 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 Config/Needs/website: rmarkdown
 NeedsCompilation: no
-Packaged: 2025-07-25 06:50:25 UTC; ryanleadbetter
+Packaged: 2025-11-20 23:27:52 UTC; ryanleadbetter
 Author: Nick Fountain-Jones [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0001-9248-8493>),
   Ryan Leadbetter [aut] (ORCID: <https://orcid.org/0000-0002-1942-3121>),
@@ -40,4 +40,4 @@ Author: Nick Fountain-Jones [aut, cre, cph] (ORCID:
   Nick Clark [aut]
 Maintainer: Nick Fountain-Jones <nick.fountainjones@utas.edu.au>
 Repository: CRAN
-Date/Publication: 2025-07-28 18:40:02 UTC
+Date/Publication: 2025-11-21 00:00:02 UTC
